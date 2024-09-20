@@ -355,7 +355,10 @@
 "Assets/Scripts/ballpit.cs"
 "Assets/Scripts/cilinderpit.cs"
 "Assets/Scripts/cube.cs"
+"Assets/Scripts/Enemy.cs"
 "Assets/Scripts/EnemySpawner.cs"
+"Assets/Scripts/Movement.cs"
+"Assets/Scripts/scoreBoard.cs"
 -langversion:9.0
 
 /deterministic
