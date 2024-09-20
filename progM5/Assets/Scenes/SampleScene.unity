@@ -471,6 +471,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Cube: {fileID: 1249852120758364870, guid: 985abdcacce5fc947ae327d1c4dfe237, type: 3}
   timer: 0
+  cubes: []
 --- !u!1 &955898691
 GameObject:
   m_ObjectHideFlags: 0
