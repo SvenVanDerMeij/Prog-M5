@@ -11,9 +11,10 @@ public class Enemy : MonoBehaviour
    
     private void OnCollisionEnter(Collision player)
     {
-        if (player.gameObject.name == "player")
+        if (player.gameObject.name != "player")
         {
             death?.Invoke();
+            
             Destroy(gameObject);
         }
     }
